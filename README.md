@@ -1,9 +1,10 @@
 # onetap-discord-bot
-subscription manager for onetap disc bot
+subscription manager for onetap disc bot<br>
+<br>
 ![](5da0d4c300629d11370e2365913276f5.png)
-
-Commands:
-$freecfg [ot user id]
-$freescript [ot user id]
-$activesubs
+<br>
+Commands:<br>
+$freecfg [ot user id]<br>
+$freescript [ot user id]<br>
+$activesubs<br>
 
